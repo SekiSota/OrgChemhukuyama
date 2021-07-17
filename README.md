@@ -6,4 +6,5 @@ Enjoy Organic chemistry!
 
 Caution;
 This program contains two file, python.file and csv.file. You must put them in same directory. Unless that, it dosen't work. 
+
 For non-python users, I made exe.file version of this app, however, the size of the exe.file is beyond the limit of github system. If you wanna get it, please contact me.
