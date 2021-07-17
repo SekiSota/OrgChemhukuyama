@@ -3,3 +3,5 @@ This is the first app for organic chemistry learners with'演習で学ぶ有機�
 
 This app randomly select A or B questions. C questions are so advanced contents that I cannot solve it and this is the reason that this app dosen't support them.
 Enjoy Organic chemistry!
+
+For non-python users, I made exe.file version of this app, however, the size of the exe.file is beyond the limit of github system. If you wanna get it, please contact me.
